@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HIMANSHU22-16
-- 👀 I’m interested in learn somthing new , web designing 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in learn somthing New Technologies.
+- 🌱 I’m currently learning Python, SQL and Odoo.
 - 📫 You can reach me via my email himanshupatil5690@gmail.com
 
 <!---
